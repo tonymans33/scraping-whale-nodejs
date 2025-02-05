@@ -1,0 +1,44 @@
+stock,history,sector,sharesHeld,marketValue,percentPortfolio,previousPercentPortfolio,rank,changeInShares,percentChange,percentOwnership,qtrFirstOwned,estAvgPrice,qtrEndPrice,price1D,perfMTD,perfYTD,source,sourceDate,dateReported
+"AAPL ""Apple Inc""",History,INFORMATION TECHNOLOGY,"300,000,000","69,900,000,000",26.24%,30.09%,1,"-100,000,000",-25.00%,1.98%,Q1 2016,39.6214,233,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"AXP ""American Express Co""",History,FINANCE,"151,610,700","41,116,821,840",15.44%,12.54%,2,No Change,,21.52%,Q1 2001,39.311,271.2,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"BAC ""Bank Of America Corp.""",History,FINANCE,"766,305,462","32,292,112,168.68",,,,Change from Form 4 filing,-1.12%,9.99%,Q3 2017,,,Subscribe,,,Form 4,2024-10-15,2024-10-17
+"KO ""Coca-Cola Co""",History,CONSUMER STAPLES,"400,000,000","28,744,000,000",10.79%,9.09%,4,No Change,,9.29%,Q1 2001,27.1275,71.86,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"CVX ""Chevron Corp.""",History,ENERGY,"118,610,534","17,467,773,342",6.56%,6.63%,5,No Change,,6.60%,Q4 2020,130.1587,147.27,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"OXY ""Occidental Petroleum Corp""",History,ENERGY,"264,263,311","11,986,983,786.96",,,,Change from Form 4 filing,,28.16%,Q1 2022,,,Subscribe,,,Form 4,2024-12-19,2024-12-19
+"MCO ""Moodys Corp""",History,FINANCE,"24,669,778","11,708,029,942",4.40%,3.71%,7,No Change,,13.61%,Q1 2001,13.7106,474.59,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"KHC ""Kraft Heinz Co""",History,CONSUMER STAPLES,"325,634,818","11,433,038,460",4.29%,3.75%,8,No Change,,26.93%,Q3 2015,75.4858,35.11,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"CB ""Chubb Limited""",History,FINANCE,"27,033,784","7,796,272,968",2.93%,2.46%,9,No Change,,6.71%,Q1 2024,240.9961,288.39,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"DVA ""Davita Inc""",History,HEALTH CARE,"36,095,570","5,917,146,790",2.22%,1.79%,10,No Change,,44.02%,Q4 2011,48.8505,163.93,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"C ""Citigroup, Inc""",History,FINANCE,"55,244,797","3,458,324,292",1.30%,1.25%,11,No Change,,2.92%,Q1 2022,61.5425,62.6,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"KR ""Kroger Co""",History,CONSUMER STAPLES,"50,000,000","2,865,000,000",1.08%,0.89%,12,No Change,,6.91%,Q4 2019,31.7303,57.3,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"VRSN ""VeriSign Inc""",History,COMMUNICATIONS,"13,289,880","2,732,665,125.6",,,,Change from Form 4 filing,,13.83%,Q4 2012,,,Subscribe,,,Form 4,2025-01-03,2025-01-03
+"SIRI ""Sirius XM Holdings Inc""",History,COMMUNICATIONS,"117,468,573","2,417,503,232.34",,,,Change from Form 4 filing,,29.75%,Q3 2023,,,Subscribe,,,Form 4,2024-12-19,2024-12-19
+"V ""VISA Inc""",History,FINANCE,"8,297,460","2,281,386,627",0.86%,0.78%,15,No Change,,0.48%,Q3 2011,37.0713,274.95,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"MA ""Mastercard Inc""",History,FINANCE,"3,986,648","1,968,606,782",0.74%,0.63%,16,No Change,,0.44%,Q1 2011,38.5436,493.8,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"AMZN ""Amazon.com Inc""",History,CONSUMER DISCRETIONARY,"10,000,000","1,863,300,000",0.70%,0.69%,17,No Change,,0.10%,Q1 2019,82.9922,186.33,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"AON ""Aon PLC""",History,FINANCE,"4,100,000","1,418,559,000",0.53%,0.43%,18,No Change,,1.90%,Q1 2021,218.5594,345.99,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"COF ""Capital One Financial Corp""",History,FINANCE,"9,100,000","1,362,543,000",0.51%,0.49%,19,"-719,052",-7.32%,2.39%,Q1 2023,101.2605,149.73,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"NU ""Nu Holdings Ltd""",History,INFORMATION TECHNOLOGY,"86,438,997","1,179,892,309",0.44%,0.49%,20,"-20,679,787",-19.31%,1.88%,Q4 2021,9.38,13.65,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"ALLY ""Ally Financial Inc""",History,FINANCE,"29,000,000","1,032,110,000",0.39%,0.41%,21,No Change,,9.52%,Q1 2022,42.8673,35.59,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"TMUS ""T-Mobile US Inc""",History,UTILITIES AND TELECOMMUNICATIONS,"4,672,000","964,113,920",0.36%,0.29%,22,No Change,,0.40%,Q3 2020,115.5037,206.36,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"CHTR ""Charter Communications Inc""",History,COMMUNICATIONS,"2,821,879","914,514,546",0.34%,0.41%,23,"-1,007,062",-26.30%,1.98%,Q2 2014,163.1543,324.08,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"LPX ""Louisiana-Pacific Corp.""",History,MATERIALS,"5,964,793","640,976,656",0.24%,0.18%,24,No Change,,8.49%,Q3 2022,57.6951,107.46,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"FWONK ""Formula One Group""",History,COMMUNICATIONS,"7,722,451","597,949,381",0.22%,0.20%,25,No Change,,3.68%,Q4 2021,58.9754,77.43,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"LLYVK ""Liberty Media Corp""",History,COMMUNICATIONS,"10,917,661","560,403,539",0.21%,0.15%,26,No Change,,17.16%,Q3 2023,33.1173,51.33,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"DPZ ""Dominos Pizza Inc""",History,CONSUMER DISCRETIONARY,"1,277,256","549,398,896",0.21%,,27,"1,277,256",New,3.70%,Q3 2024,454.9618,430.14,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"LLYVA ""Liberty Media Corp""",History,COMMUNICATIONS,"4,986,588","246,885,972",0.09%,0.07%,28,No Change,,19.51%,Q3 2023,32.825,49.51,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"HEI.A ""Heico Corp.  Class A""",History,INDUSTRIALS,"1,049,687","213,884,223",0.08%,0.07%,29,"5,445",0.52%,1.25%,Q2 2024,165.1484,203.76,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"POOL ""Pool Corporation""",History,CONSUMER DISCRETIONARY,"404,057","152,248,678",0.06%,,30,"404,057",New,1.06%,Q3 2024,343.9047,376.8,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"NVR ""NVR Inc""",History,CONSUMER DISCRETIONARY,"11,112","109,028,722",0.04%,0.03%,31,No Change,,0.36%,Q2 2023,5696.5716,9811.8,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"DEO ""Diageo plc""",History,CONSUMER STAPLES,"227,750","31,962,435",0.01%,0.01%,32,No Change,,0.01%,Q1 2023,178.3181,140.34,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"JEF ""Jefferies Financial Group Inc""",History,FINANCE,"433,558","26,685,495",0.01%,0.01%,33,No Change,,0.21%,Q3 2022,29.6155,61.55,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"LEN.B ""Lennar Corp. Class B""",History,CONSUMER DISCRETIONARY,"152,572","26,385,802",0.01%,0.01%,34,No Change,,0.46%,Q2 2023,94.9835,172.94,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"LILA ""Liberty Latin America Ltd Class A""",History,UTILITIES AND TELECOMMUNICATIONS,"2,630,792","25,202,987",0.01%,0.01%,35,No Change,,6.92%,Q3 2015,34.8425,9.58,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"VOO ""Vanguard S&P 500 ETF""",History,FINANCE,"43,000","22,689,810",0.01%,0.01%,36,No Change,,,Q4 2019,280.7669,527.67,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"SPY ""SPDR S&P 500 ETF TRUST""",History,FINANCE,"39,400","22,606,144",0.01%,0.01%,37,No Change,,,Q4 2019,305.5814,573.76,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"LILAK ""Liberty Latin America Ltd Class C""",History,COMMUNICATIONS,"1,284,020","12,185,350",0.00%,0.00%,38,No Change,,0.82%,Q3 2015,35.1969,9.49,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"ULTA ""Ulta Beauty Inc""",History,CONSUMER DISCRETIONARY,"24,203","9,417,871",0.00%,0.10%,39,"-665,903",-96.49%,0.05%,Q2 2024,437.9414,389.12,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"BATRK ""Atlanta Braves Holdings Inc""",History,COMMUNICATIONS,"223,645","8,901,072",0.00%,0.00%,40,No Change,,0.44%,Q3 2023,38.0736,39.8,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"LSXMA ""Liberty Sirius XM Group, Series A""",History,COMMUNICATIONS,0,0,,0.28%,Sold All,"-35,182,219",-100.00%,0.00%,Q2 2016,0,,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"LSXMK ""Liberty Sirius XM Group, Series C""",History,COMMUNICATIONS,0,0,,0.55%,Sold All,"-70,002,897",-100.00%,0.00%,Q2 2016,0,,Subscribe,,,13F Filing,2024-09-30,2024-11-14
+"FND ""Floor & Decor Holdings Inc""",History,CONSUMER DISCRETIONARY,0,0,,0.14%,Sold All,"-3,977,870",-100.00%,0.00%,Q3 2021,0,124.17,Subscribe,,,13F Filing,2024-09-30,2024-11-14
